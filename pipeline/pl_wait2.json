@@ -1,0 +1,17 @@
+{
+	"name": "pl_wait2",
+	"properties": {
+		"activities": [
+			{
+				"name": "waiting_tesing",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
