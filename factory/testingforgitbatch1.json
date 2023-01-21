@@ -1,0 +1,9 @@
+{
+	"name": "testingforgitbatch1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cfa873ad-84f5-442c-9e60-d490f3ce976b",
+		"tenantId": "ac6d0bfb-0888-4ba4-8e1b-64368ebde8ff"
+	}
+}
